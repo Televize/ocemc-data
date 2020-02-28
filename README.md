@@ -1,5 +1,5 @@
 ## OCEMC Data
-Data from the tracker at https://ocemc.pro/ from ***September 24th 2019*** to ***February 28th 2020***
+Data from the Minecraft server tracker at https://ocemc.pro/ from ***September 24th 2019*** to ***February 28th 2020***
 
 ## Format
 The data is in the following format, taking into account:

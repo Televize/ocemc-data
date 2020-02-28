@@ -16,4 +16,5 @@ The data is in the following format, taking into account:
 ```
 
 ## Credit Me
+I do not mind what you do with this.
 If you make anything with this, at the very least link this repository.

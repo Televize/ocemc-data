@@ -10,7 +10,7 @@ The data is in the following format, taking into account:
 ```
 {
 "timestamp1": playercount1,
-"timestamp1": playercount2,
+"timestamp2": playercount2,
 ...
 }
 ```
